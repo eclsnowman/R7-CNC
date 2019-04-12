@@ -3,6 +3,8 @@
 
 ![R7-CNC Render Image2](https://github.com/eclsnowman/R7-CNC/blob/master/01%20-%20R7%20Pictures/R7_CNC-Render2.png?raw=true)
 
+![R7-CNC Overview](https://github.com/eclsnowman/R7-CNC/blob/master/01%20-%20R7%20Pictures/R7CNC-Overview.png?raw=true)
+
 The R7-CNC is a strong and capable router style CNC that was sold by SMW3D which later changed its name to Hobby-Fab. I have had the pleasure of knowing Brandon Satterfield for many years through the now defunct Google+. Over those years I have had the pleasure of working on many cool project with Brandon and the team at SMW3D. The R7 CNC was one of those projects. 
 
 Unfortunately the Chinese market spurring the race to the bottom on maker parts, kits, and components drove Brandon and his team on to greener pastures via the closure of Hobbyfab in 2019. But I am delighted to announce that Brandon has given me the OK to release the designs and plans on many of the cool machines we developed together out here on Github. After the initial designs we worked on together several years ago, Brandon and his team made many improvements and upgrades to those initial designs. There is no better example of that than the R7-CNC which was subject to continuous improvement. The files here are my best attempt to cleanup and document via detailed 3D models the final product as shipped by Hobbyfab.
